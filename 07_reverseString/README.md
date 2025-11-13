@@ -9,3 +9,6 @@ reverseString('hello there') // returns 'ereht olleh'
 ## Hints
 Strings in JavaScript are immutable and, therefore, cannot be reversed directly in place. While there is no built-in method for this, several alternative approaches can be used, drawing on the concepts you've been introduced to in the lessons.
 
+## Learned
+- the second expression in the for loop is a "must" condition and not a until or if. 
+
