@@ -16,3 +16,6 @@ The first test on this one is fairly easy, but there are a few things to think a
 - how to remove a single element from an array
 - how to deal with multiple optional arguments in a JavaScript function
 - For more information, check out MDN's page on [function arguments](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/arguments) - scroll down to the bit about `Array.from` or the spread operator. You can also check out MDN's page on [rest parameters](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/rest_parameters).
+
+## Learnings
+- About the use of spread syntax: to be used when there is a possibility of there being more than one arguments for a function call. Basically a parameter that can be expanded in an array like obj if needed but not necessary.
